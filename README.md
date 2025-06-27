@@ -133,7 +133,6 @@ The system returns whether the input is abusive or not.
 
 ![Image](https://github.com/user-attachments/assets/66ec9918-2925-4892-bb2b-0943952e38f1)
 
-
 **Result Page1**
 ![Image](https://github.com/user-attachments/assets/28af8d88-6893-4296-9ff0-4eae4fba8ea4)
 
