@@ -123,27 +123,27 @@ The system returns whether the input is abusive or not.
 
 **Login Page**
 
-![Image](https://github.com/user-attachments/assets/b1580c48-e66f-4889-9c5c-7950eb9b9f0b)
+![Image](https://github.com/user-attachments/assets/bc177eed-c9fc-4049-8d6b-696c5b9e71cd)
 
 **Register Page**
 
-![Image](https://github.com/user-attachments/assets/6c176e3e-3a5f-4442-bc47-f048bd476797)
+![Image](https://github.com/user-attachments/assets/902f9ebe-7e18-4025-8e04-36bdd2642c16)
 
 **Message Page1**
 
-![Image](https://github.com/user-attachments/assets/3b45b130-0960-452f-b95c-40ea35670591)
+![Image](https://github.com/user-attachments/assets/66ec9918-2925-4892-bb2b-0943952e38f1)
+
 
 **Result Page1**
-
-![Image](https://github.com/user-attachments/assets/d5df795a-7828-4fea-bb36-024098d1fd9d)
+![Image](https://github.com/user-attachments/assets/28af8d88-6893-4296-9ff0-4eae4fba8ea4)
 
 **Message Page2**
 
-![Image](https://github.com/user-attachments/assets/306cf51c-a518-4d94-8871-ebd1c960d4f1)
+![Image](https://github.com/user-attachments/assets/412e34e1-a541-48ce-829f-cac5c553e797)
 
 **Result Page2**
 
-![Image](https://github.com/user-attachments/assets/351d302b-4794-417a-bce4-17758da7ef5e)
+![Image](https://github.com/user-attachments/assets/c7c42717-1c4d-46fe-a319-89bd1cc4f289)
 
 ## License
 
